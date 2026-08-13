@@ -45,3 +45,6 @@ frontend/dist/renders/
 *~
 
 *_workspace/
+
+# AI session logs and local vector memory
+.ai/context-logger/
